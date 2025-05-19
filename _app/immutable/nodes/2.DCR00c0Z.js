@@ -1,0 +1,1 @@
+import{t as p,a as s}from"../chunks/Bz-64ABC.js";import"../chunks/Ct3wAH30.js";import{t as m,d as l,c as f,r as i}from"../chunks/D8Iwxh5y.js";import{s as n}from"../chunks/DbrGs0XX.js";var c=p("<h1> </h1>");function x(t){let a="bokaloka";var e=c(),o=f(e);i(e),m(r=>n(o,`Hello ${r??""}!`),[()=>a.toUpperCase()],l),s(t,e)}export{x as component};
